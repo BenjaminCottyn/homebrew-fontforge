@@ -5,7 +5,7 @@ See the original [here](https://github.com/Homebrew/homebrew-core/blob/d1dfe7b50
 
 ## Installation
 
-Use `brew tab benjamincottyn/fontforge` to enable this formula and `brew tap-pin benjamincottyn/fontforge` to prioritize it over the FontForge formula in homebrew-core.
+Use `brew tap benjamincottyn/fontforge` to enable this formula and `brew tap-pin benjamincottyn/fontforge` to prioritize it over the FontForge formula in homebrew-core.
 
 After that, a `brew install fontforge` will take care of the rest.
 
