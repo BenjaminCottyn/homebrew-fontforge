@@ -2,7 +2,7 @@ class Fontforge < Formula
   desc "Command-line outline and bitmap font editor/converter"
   homepage "https://fontforge.github.io"
   url "https://github.com/fontforge/fontforge/archive/20161012.tar.gz"
-  sha256 "a5f5c2974eb9109b607e24f06e57696d5861aaebb620fc2c132bdbac6e656351"
+  sha256 "2c41a312d070e4fff846794c99286bb5f22ec9b03b182fef7a0368b87a31745f"
   revision 2
   head "https://github.com/fontforge/fontforge.git"
 
